@@ -8,3 +8,5 @@ Executable location:
 app/bin/Debug/net7.0/app.exe
 
 Thank you!
+
+This was made in a short amount of time so the logic is not ideal but it worked for the scope of the project.
